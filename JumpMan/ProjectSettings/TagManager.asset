@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - human
+  - enemy
+  - block
+  - powerUp
+  - outOfBounds
+  - platform
+  - water
+  - bullet
+  - background
+  - shooterEnemy
+  - enemyBullet
+  - flag1
+  - flag2
+  - spikes
+  - LOGO
+  - boss
+  - waypoint1
+  - waypoint2
+  - waypoint3
+  - sprite
+  - eyeBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - spikes
+  - human
+  - line
+  - eyeBullet
+  - boss
+  - healthBar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1680745161
+    locked: 0
